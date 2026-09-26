@@ -1,34 +1,66 @@
-### Hi, I'm Alisher 👋
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&pause=1000&width=435&lines=Hi%2C+I'm+Alisher"  />
+</div>
 
-CS student @ [City University of Hong Kong](https://www.cityu.edu.hk) — building ML systems and full-stack products, with a focus on healthcare AI and robust models for real-world data.
+###
 
-🥈 2nd Place (International) — Infomatrix Asia 2025
-🎓 Full scholarship recipient, BSc Computer Science, CityUHK
+<div data-importer="socials" align="center">
+  <a href="www.linkedin.com/in/alisher-romankul-8b9035336" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://leetcode.com/u/alishnis/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
+  </a>
+</div>
 
----
+###
 
-### 🚀 Featured Projects
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Alishnis.Alishnis&"  />
+</div>
 
-**[ClarityDX / HealthX](https://github.com/Alishnis/claritydx)** — AI-powered healthcare platform for medical image analysis
-- Deep learning classification for X-ray, CT, and dermatology images (DenseNet, VGG16, EfficientNet)
-- BioGPT integration for symptom-based diagnosis assistance
-- Automated blood-test metric extraction from PDFs/images
-- 🎥 [Demo video](https://youtu.be/fxxvhklNr3g)
+###
 
-**[SmartScroll](https://github.com/Alishnis/smart-scroll)** — AI-driven educational content platform
-- Personalized content feeds via YouTube + Reddit APIs + OpenAI
-- Automatic video summarization and quiz generation
-- Built with Django REST Framework, React, PostgreSQL, Redis
+<h1 data-importer="text" align="center">hey there 👋</h1>
 
----
+###
 
-### 🛠️ Tech Stack
-`Python` `JavaScript` `TypeScript` `SQL`
-`TensorFlow` `PyTorch` `Keras`
-`Django REST Framework` `FastAPI` `React`
-`PostgreSQL` `Redis` `Docker`
+<h3 data-importer="text" align="left">👨🏽‍💻  About Me</h3>
 
----
+###
 
-### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/alisher-romankul-8b9035336) · romankulalisher@gmail.com
+<p data-importer="text" align="left">I'm Alisher, from Kazakhstan 🇰🇿<br><br>- I'm working as a Backend Developer, integrating AI platforms and services into web products<br>- I'm currently learning algorithms and data structures and exploring robotics-adjacent systems<br>- I my free time, I build AI-powered side projects, swim, and read literature.</p>
+
+###
+
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Alishnis&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
