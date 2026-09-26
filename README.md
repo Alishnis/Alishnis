@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&pause=1000&width=435&lines=Hi%2C+I'm+Alisher"  />
+  <img data-importer="image" height="300" src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&pause=1000&width=435&lines=Hi%2C+I'm+Alisher"  />
 </div>
 
 ###
