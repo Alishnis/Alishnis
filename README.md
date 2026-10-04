@@ -29,7 +29,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Alisher, from Kazakhstan 🇰🇿<br><br>- I'm working as a Backend Developer, integrating AI platforms and services into web products<br>- I'm currently learning algorithms and data structures and exploring robotics-adjacent systems<br>- I my free time, I build AI-powered side projects, swim, and read literature.</p>
+<p data-importer="text" align="left">I'm Alisher, from Kazakhstan 🇰🇿<br><br>- I'm working as a Backend Developer, integrating AI platforms and services into web products<br>- I'm currently learning algorithms and data structures and exploring robotics-adjacent systems<br>- In my free time, I build AI-powered side projects, swim, and read literature.</p>
 
 ###
 
